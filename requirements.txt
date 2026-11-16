@@ -1,0 +1,12 @@
+google-api-python-client
+transformers==4.42.4
+tensorflow-cpu
+pandas
+Flask
+emoji
+gunicorn 
+googletrans==3.1.0a0
+#pycld3
+#Cython
+#cld3
+langid
